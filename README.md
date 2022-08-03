@@ -29,18 +29,18 @@
 
 #### Production Machine Learning Systems
 ###### 1. Architecting Production ML Systems
-###### a. Architecting ML systems
-###### b. Data extraction, analysis, and preparation
-###### c. Model training, evaluation, and validation
-###### d. Trained model, prediction service, and performance monitoring
-###### e. Training design decisions
-###### f. Serving design decisions
-###### g. Designing from scratch
-###### h. Using Vertex AI
-###### i. Structured data prediction
-###### j. Getting Started with GCP and Qwiklabs
-###### k. Structured data prediction using Vertex AI Platform
-###### 2. Designing Adaptable ML Systems
+  ###### a. Architecting ML systems
+  ###### b. Data extraction, analysis, and preparation
+  ###### c. Model training, evaluation, and validation
+  ###### d. Trained model, prediction service, and performance monitoring
+  ###### e. Training design decisions
+  ###### f. Serving design decisions
+  ###### g. Designing from scratch
+  ###### h. Using Vertex AI
+  ###### i. Structured data prediction
+  ###### j. Getting Started with GCP and Qwiklabs
+  ###### k. Structured data prediction using Vertex AI Platform
+  ###### 2. Designing Adaptable ML Systems
 ###### Adapting to data
 ###### Changing distributions
 ###### Right and wrong decisions
