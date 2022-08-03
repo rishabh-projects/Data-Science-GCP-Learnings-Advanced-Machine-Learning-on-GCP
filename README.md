@@ -7,22 +7,22 @@
 ### Here we will do End-to-End Machine Learning with TensorFlow on Google Cloud Platform. Then we learn about the components and best practices of a high-performing ML system in production environments.
 #### End-to-End Machine Learning with TensorFlow on Google Cloud
 1. Machine Learning (ML) on Google Cloud Platform (GCP)
-a. Effective ML
-b. Fully managed ML
+  a. Effective ML
+  b. Fully managed ML
 2. Explore the Data
-a. Exploring the dataset
-b. BigQuery
-c. BigQuery and AI Platform Notebooks
-d. Getting started with GCP and Qwiklabs
+  a. Exploring the dataset
+  b. BigQuery
+  c. BigQuery and AI Platform Notebooks
+  d. Getting started with GCP and Qwiklabs
 3. Create the dataset
-a. Creating a dataset
+  a. Creating a dataset
 4. Build the Model
-a. Create TensorFlow model
+  a. Create TensorFlow model
 5. Operationalize the model
-a. Operationalizing the model
-b. Preprocessing with Cloud Dataflow
+  a. Operationalizing the model
+  b. Preprocessing with Cloud Dataflow
 6. Cloud AI Platform
-a. Train and deploy with Cloud AI Platform
-b. BigQuery ML
-c. Deploying and Predicting with Cloud AI Platform
-d. Building an App Engine app to serve ML predictions
+  a. Train and deploy with Cloud AI Platform
+  b. BigQuery ML
+  c. Deploying and Predicting with Cloud AI Platform
+  d. Building an App Engine app to serve ML predictions
