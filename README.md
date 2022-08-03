@@ -6,7 +6,7 @@
 
 ### Here we will do End-to-End Machine Learning with TensorFlow on Google Cloud Platform. Then we learn about the components and best practices of a high-performing ML system in production environments.
 #### End-to-End Machine Learning with TensorFlow on Google Cloud
-###### Machine Learning (ML) on Google Cloud Platform (GCP)
+1. Machine Learning (ML) on Google Cloud Platform (GCP)
   a. Effective ML
   b. Fully managed ML
 2. Explore the Data
